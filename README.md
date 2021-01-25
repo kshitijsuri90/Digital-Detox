@@ -20,10 +20,10 @@ Digital Detox is an application aimed to help users cure mobile addiction. It us
     <td>App Screen 4</td>
   </tr>
   <tr>
-    <td><img src = "https://github.com/kshitijsuri90/Digital-Detox/tree/master/screenshots/1.jpeg" width = "250" height = "500" /></td>
-    <td><img src = "https://github.com/kshitijsuri90/Digital-Detox/tree/master/screenshots/2.jpeg" width = "250" height = "500" /></td>
-    <td><img src = "https://github.com/kshitijsuri90/Digital-Detox/tree/master/screenshots/3.jpeg" width = "250" height = "500" /></td>
-    <td><img src = "https://github.com/kshitijsuri90/Digital-Detox/tree/master/screenshots/4.jpeg" width = "250" height = "500" /></td>
+    <td><img src = "https://github.com/kshitijsuri90/Digital-Detox/blob/master/screenshots/1.jpeg" width = "250" height = "500" /></td>
+    <td><img src = "https://github.com/kshitijsuri90/Digital-Detox/blob/master/screenshots/2.jpeg" width = "250" height = "500" /></td>
+    <td><img src = "https://github.com/kshitijsuri90/Digital-Detox/blob/master/screenshots/3.jpeg" width = "250" height = "500" /></td>
+    <td><img src = "https://github.com/kshitijsuri90/Digital-Detox/blob/master/screenshots/4.jpeg" width = "250" height = "500" /></td>
   </tr>
  </table>
 ___
